@@ -1,0 +1,9 @@
+[package]
+
+name = "sdf_gen"
+version = "0.0.1"
+authors = [ "Saggi Mizrahi ficoos@gmail.com" ]
+
+[dependencies]
+image = "0.18"
+num = "0.1"
